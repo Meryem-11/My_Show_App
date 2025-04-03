@@ -26,6 +26,10 @@ Ajout d’un Show : L’utilisateur peut ajouter un show avec un titre, une desc
 
 via une requête POST.
 
+VIDEO DEMONSTRATIVE ( envoyée par mail ) .
+
+
+
 
 
 
